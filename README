@@ -9,3 +9,7 @@ auto_update: Automatically updating contents
 mousemove: Event handler for mousemove
 
 selectcss: Selecting a stylesheet
+
+jquery:
+	basic: basic sample
+	letter_count: count letters
